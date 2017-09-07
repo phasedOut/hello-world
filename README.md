@@ -13,6 +13,5 @@ Hello, this is an updated version of readme! Hope it serves you well.
 * 5
   * 5.5
 
-![GitHub Logo](C:\Users\Public\Desktop\1.png)
-Format: ![Alt text](url)
+![alt text](/images/1.png)
 
