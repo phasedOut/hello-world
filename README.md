@@ -13,5 +13,3 @@ Hello, this is an updated version of readme! Hope it serves you well.
 * 5
   * 5.5
 
-![alt text](/images/1.png)
-
