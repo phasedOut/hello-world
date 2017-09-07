@@ -7,12 +7,17 @@ As Yuji said...
 > broaden your horizen
 > do waht you have to do
 
-test()
+Name | Password
+-- | --
+Yuji | password
+fjadklfdjaf |  dklfja;ldfja;lfdf
+:+1: | :camel:
+
 
 ```javascript
-document.onreadystatechange = function() {
-
-  alert("hello");
+function test() {
+   
+  console.log("hello");  
   
 }```
 
