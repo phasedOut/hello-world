@@ -2,7 +2,7 @@
 
 Hello, this is an updated version of readme! Hope it serves you well.
 
-As Yuji said...
+As Sean said...
 
 > broaden your horizen
 > do waht you have to do
